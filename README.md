@@ -1,3 +1,6 @@
+## Authors
+Yuqi Hu, Hao Li, Hejia Zhang (last name alphabetic order)
+
 ## What are in the source codes
 
 ### critical_path_method.py
